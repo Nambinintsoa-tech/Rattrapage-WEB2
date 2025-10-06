@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+button { cursor: pointer;}
+.question {margin-bottom : 16px; padding: 8px; border: 1px solid #ddd; border-radius: 6px;}
+.options { margin-top: 8px; }
+.result-correct { color: green; font-weight: bold; }
+.result-wrong { color: red; font-weight: bold; }
